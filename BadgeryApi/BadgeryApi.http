@@ -1,0 +1,6 @@
+@BadgeryApi_HostAddress = https://localhost:7291
+
+GET {{BadgeryApi_HostAddress}}/badge/
+Accept: application/json
+
+###
